@@ -1,4 +1,4 @@
-![Banner DS](https://github.com/brayannmb/Data-Science/blob/main/banner_data_science/banner.png?raw=true)
+![Banner DS](https://github.com/brayannmb/portfolio_data_science/blob/main/banner.png?raw=true)
 
 # **Brayan Monserrah Bento**
  Seja muito bem vindo(a) ao meu portfólio de projetos de análise de dados!
@@ -18,9 +18,9 @@ Veja os projetos do meu portfólio abaixo:
 
 Projeto | Artigos | Jupyter Notebook
 ---|---|---|
-Panorama da Covid-19 | [Artigo](https://bit.ly/3fbhIi2) | [Notebook](https://github.com/brayannmb/Data-Science/blob/main/projeto_covid_19/analise_covid.ipynb) 
-Análise da Criminalidade no Rio de Janeiro | [Artigo](https://bit.ly/39zOXIk) | [Notebook](https://github.com/brayannmb/Data-Science/blob/main/projeto_criminalidade_rio/projeto_criminalidade_rio_janeiro.ipynb)
-Analisando os Dados do Airbnb de Londres |[Artigo](https://bit.ly/3r91Fnk) | [Notebook](https://github.com/brayannmb/Data-Science/blob/main/projeto_airbnb_londres/Analisando_os_Dados_do_Airbnb_Londres.ipynb)
+Panorama da Covid-19 | [Artigo](https://bit.ly/3fbhIi2) | [Notebook](https://github.com/brayannmb/projeto_analise_covid19/blob/main/analise_covid.ipynb) 
+Análise da Criminalidade no Rio de Janeiro | [Artigo](https://bit.ly/39zOXIk) | [Notebook](https://github.com/brayannmb/projeto_analise_criminalidade/blob/main/projeto_criminalidade_rio_janeiro.ipynb)
+Analisando os Dados do Airbnb de Londres |[Artigo](https://bit.ly/3r91Fnk) | [Notebook](https://github.com/brayannmb/projeto_airbnb/blob/main/Analisando_os_Dados_do_Airbnb_Londres.ipynb)
 
 ## **Dashboards Data Analytics - Power BI**
 
@@ -38,7 +38,7 @@ Analisando os Dados do Airbnb de Londres |[Artigo](https://bit.ly/3r91Fnk) | [No
 
 ## **Projetos de Estudo - Machine Learning**
 
-* [Naufrágio do Titanic](https://github.com/brayannmb/Data-Science/blob/main/projeto_titanic.ipynb)
+* [Naufrágio do Titanic](https://github.com/brayannmb/projeto_titanic/blob/main/projeto_titanic.ipynb)
 
 ## **Contato**
 Redes para contato:
